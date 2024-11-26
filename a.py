@@ -1,7 +1,7 @@
 import gdown
 
 # URL file Google Drive
-url = "https://drive.google.com/uc?id=1WlzOMBtITNea7X8Qu-EIo0rErRq4SAg_"
+url = "https://drive.google.com/uc?id=1IIOTR2TahQfPDoid6f5TBksnTtA0WS4w"
 
 # Đường dẫn lưu file sau khi tải
 output = "/mnt/win10.zip"  # Đổi tên file tùy ý
